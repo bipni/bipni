@@ -7,7 +7,7 @@
 </head>
 <body>
     <div id="intro" style="
-        background: #151515 url('../images/intro-bg.jpg') no-repeat center bottom;
+        background: #151515 url('intro-bg.jpg') no-repeat center bottom;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
@@ -32,4 +32,3 @@
     </div>
 </body>
 </html>
-
