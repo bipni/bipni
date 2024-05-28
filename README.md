@@ -17,6 +17,7 @@
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img alt="gcp" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="github-action" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
@@ -36,7 +37,10 @@
 <p>
 <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 <img alt="insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
-<img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="mongo-compass" src="https://img.shields.io/badge/Mongo Compass-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="pgadmin" src="https://img.shields.io/badge/PG Admin-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img alt="redis-insight" src="https://img.shields.io/badge/redis Insight-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+<img alt="docker-desktop" src="https://img.shields.io/badge/Docker Desktop-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="ngrok" src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white" />
 <img alt="nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
