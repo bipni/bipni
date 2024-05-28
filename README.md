@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Intro Section</title>
-</head>
 <body>
     <div id="intro" style="
         background: #151515 url('intro-bg.jpg') no-repeat center bottom;
